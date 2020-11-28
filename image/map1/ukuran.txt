@@ -1,0 +1,10 @@
+bug.png - 25x22
+dragonfly - 36x46
+goldfish - 27x26
+hat - 79x120
+lincoln - 40x55
+notes - 45x54
+poison - 44x59
+rocket - 56x46
+sandhour - 36x72
+snail - 63x45
